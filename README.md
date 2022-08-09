@@ -1,7 +1,7 @@
 ### Hey 👋
 
 - 🔭 I’m currently working on an Augmented Reality Gratitude Garden project
-- 🌱 I’m currently learning Unity3d and SparkAR
+- 🌱 I’m currently learning Unreal and Blueprints
 - 👯 I’m looking to collaborate on any project with C# and VR/AR as a focus
 - 🤔 I’m currently employed as a VR Developer making life safety tours for large buildings! 
 - 📫 How to reach me: wattsjmichael@gmail.com 
