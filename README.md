@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I was voted the best bartender in Washington State in 2013 *according to BEVMO! and Bacardi*
 
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=wattsjmichael&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wattsjmichael)](https://github.com/anuraghazra/github-readme-stats)
